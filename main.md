@@ -88,7 +88,18 @@
     git worktree remove ../my-project-feature-A
     ```
 
-# 2，开发模型
+
+
+####3，gitaction
+
+
+#####问题
+- 对于多次提交main的pr检测流程都不通过的情况下，可以直接从feature分支提交pr到main分支进行检查，但是不能直接合并。
+
+
+    
+
+## 二，开发模型
 
 #### 1，敏捷开发模型（变体）
 
