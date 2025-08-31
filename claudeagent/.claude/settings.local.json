@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(setx:*)",
+      "Bash(echo:*)",
+      "Bash(powershell:*)",
+      "Bash(claude:*)",
+      "Bash(mkdir:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
