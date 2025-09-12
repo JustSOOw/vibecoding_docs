@@ -1,0 +1,36 @@
+### BMAD 相关任务执行说明
+- `BMad:tasks:validate-next-story`：执行 BMAD 任务：验证下一个用户故事
+- `BMad:tasks:trace-requirements`：执行 BMAD 任务：追踪需求
+- `BMad:tasks:test-design`：执行 BMAD 任务：测试设计
+- `BMad:tasks:shard-doc`：执行 BMAD 任务：拆分文档
+- `BMad:tasks:risk-profile`：执行 BMAD 任务：风险概况
+- `BMad:tasks:review-story`：执行 BMAD 任务：评审用户故事
+- `BMad:tasks:qa-gate`：执行 BMAD 任务：质量保证关卡
+- `BMad:tasks:nfr-assess`：执行 BMAD 任务：非功能性需求评估
+- `BMad:tasks:kb-mode-interaction`：执行 BMAD 任务：知识库模式交互
+- `BMad:tasks:index-docs`：执行 BMAD 任务：索引文档
+- `BMad:tasks:generate-ai-frontend-prompt`：执行 BMAD 任务：生成人工智能前端提示词
+- `BMad:tasks:facilitate-brainstorming-session`：执行 BMAD 任务：组织头脑风暴会议
+- `BMad:tasks:execute-checklist`：执行 BMAD 任务：执行检查清单
+- `BMad:tasks:document-project`：执行 BMAD 任务：记录项目
+- `BMad:tasks:create-next-story`：执行 BMAD 任务：创建下一个（用户）故事
+- `BMad:tasks:create-doc`：执行 BMAD 任务：创建文档
+- `BMad:tasks:create-deep-research-prompt`：执行 BMAD 任务：创建深度研究提示词
+- `BMad:tasks:create-brownfield-story`：执行 BMAD 任务：创建遗留系统相关用户故事
+- `BMad:tasks:correct-course`：执行 BMAD 任务：纠正流程
+- `BMad:tasks:brownfield-create-story`：执行 BMAD 任务：遗留系统创建用户故事
+- `BMad:tasks:brownfield-create-epic`：执行 BMAD 任务：遗留系统创建史诗级需求
+- `BMad:tasks:apply-qa-fixes`：执行 BMAD 任务：应用质量保证修复
+- `BMad:tasks:advanced-elicitation`：执行 BMAD 任务：高级需求启发
+
+### BMAD 相关智能体激活说明
+- `BMad:agents:ux-expert`：从 BMAD 方法中激活用户体验（UX）专家智能体
+- `BMad:agents:sm`：从 BMAD 方法中激活敏捷主管（Scrum Master）智能体
+- `BMad:agents:qa`：从 BMAD 方法中激活测试架构师与质量顾问智能体
+- `BMad:agents:po`：从 BMAD 方法中激活产品负责人（Product Owner）智能体
+- `BMad:agents:pm`：从 BMAD 方法中激活产品经理（Product Manager）智能体
+- `BMad:agents:dev`：从 BMAD 方法中激活全栈开发者（Full Stack Developer）智能体
+- `BMad:agents:bmad-orchestrator`：从 BMAD 方法中激活 BMAD 主协调者智能体
+- `BMad:agents:bmad-master`：从 BMAD 方法中激活 BMAD 主任务执行器智能体
+- `BMad:agents:architect`：从 BMAD 方法中激活架构师智能体
+- `BMad:agents:analyst`：从 BMAD 方法中激活业务分析师智能体
