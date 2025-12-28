@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(github-repo-analyzer)",
+      "Bash(python fetch_repo_info.py:*)",
+      "Bash(python3:*)",
+      "Bash(pip3 install:*)",
+      "WebSearch",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:claude-plugins.dev)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:pydevtools.com)",
+      "WebFetch(domain:docs.astral.sh)",
+      "Bash(uv --version:*)",
+      "Bash(curl:*)",
+      "Bash(sh)",
+      "Bash(uv run:*)"
+    ]
+  }
+}
